@@ -32,7 +32,11 @@ npm run seed
 3) Sync included models to the DB and turn on the server:
 ```md
 npm run start 
+
 ```
+
+![Walkthrough](Images\E-Commerce-BackEnd.gif)
+
 POST:
 ![Post](Images/CreateProduct.PNG)
 
@@ -41,3 +45,5 @@ DELETE:
 
 GET: 
 ![Delete](Images/GetCategory.PNG)
+
+[Walkthrough Video](https://drive.google.com/file/d/11TQ1m0XlZD0BHrpSekM5JH8zI3i2k0UH/view?usp=sharing)
