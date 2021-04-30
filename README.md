@@ -35,7 +35,7 @@ npm run start
 
 ```
 
-![Walkthrough](Images\E-Commerce-BackEnd.gif)
+![Walkthrough](Images/E-Commerce-BackEnd.gif)
 
 POST:
 ![Post](Images/CreateProduct.PNG)
